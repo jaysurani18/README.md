@@ -1,40 +1,92 @@
-<h1 align="left">Hey 👋 What's up? I am <br>       JAY SURANI</h1>
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Jay Surani</h1>
+<h3 align="center">B.Tech IT Student • Aspiring Software Developer • Tech Enthusiast</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=4F8EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+Projects+with+Passion;Learning+DSA+%7C+React+%7C+Flutter" />
+</p>
 
-<p align="left"></p>
+---
 
-###
+## 🌈 About Me
 
-<h2 align="left">About me</h2>
+- 🎓 B.Tech (IT) Student  
+- 💻 Interested in Web Development & Problem Solving  
+- 🚀 Actively preparing for placements  
+- 🌱 Learning **DSA, Flutter & System Design**  
+- 🤝 Open to collaboration & learning from the community  
 
-###
+---
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...</p>
+## 🧰 Tech Stack
 
-###
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+</p>
 
-<h2 align="left">I code with this language</h2>
+---
 
-###
+## 🚀 Featured Projects
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-</div>
+### 🛒 Smart Cart (IoT Project)
+- Intelligent shopping cart for retail stores  
+- Improves billing speed & customer experience  
+- **Tech:** IoT, Sensors, Automation  
 
+### 🏢 Smart Society Website
+- Full-stack web app for society management  
+- **Tech:** React, Node.js, Database  
 
-###
+### 🏨 Hotel Management System
+- Admin & user modules for hotel operations  
+- **Tech:** PHP, MySQL, Bootstrap  
+
+🔗 **Explore more:** https://github.com/jaysurani18?tab=repositories
+
+---
+
+## 📊 GitHub Stats (Light & Professional)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaysurani18&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaysurani18&theme=default&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🌱 Currently Focusing On
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-Logic%20Building-4F8EF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flutter-Dart-5BC0EB?style=for-the-badge&logo=flutter"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/jaysurani18">
+    <img src="https://img.shields.io/badge/GitHub-jaysurani18-24292e?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Consistency beats motivation."</i>
+</p>
+
+---
+
+⭐️ From [jaysurani18](https://github.com/jaysurani18)
