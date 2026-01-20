@@ -1,4 +1,4 @@
-<!-- HEADER -->
+
 <h1 align="center">Hi 👋, I'm Jay Surani</h1>
 <h3 align="center">B.Tech IT Student • Aspiring Software Developer • Tech Enthusiast</h3>
 
