@@ -71,22 +71,36 @@
 ---
 
 ## 🤝 Connect With Me
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
-</div>
+<h3 align="center">
+  Connect with me
+  <img align="center"
+       src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif"
+       height="33px" />
+</h3>
+
 <p align="center">
- <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
-  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
-<p align="center">
-  <a href="https://github.com/jaysurani18">
-    <img src="https://img.shields.io/badge/GitHub-jaysurani18-24292e?style=for-the-badge&logo=github"/>
+  <a href="https://www.linkedin.com/in/jay-surani/" target="_blank">
+    <img align="center"
+         alt="Jay Surani | LinkedIn"
+         width="32px"
+         src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/" target="_blank">
+    <img align="center"
+         alt="Jay Surani | Instagram"
+         width="32px"
+         src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/jaysurani18" target="_blank">
+    <img align="center"
+         alt="Jay Surani | GitHub"
+         width="32px"
+         src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
   </a>
 </p>
+
 
 ---
 
