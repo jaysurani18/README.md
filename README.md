@@ -21,15 +21,63 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub"/>
+  </a>
+
 </p>
+
 
 ---
 
@@ -62,10 +110,14 @@
 ---
 
 ## 🌱 Currently Focusing On
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-Logic%20Building-4F8EF7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Flutter-Dart-5BC0EB?style=for-the-badge&logo=flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </p>
 
 ---
@@ -86,26 +138,29 @@
          src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/" target="_blank">
+
+  <a href="https://www.instagram.com/jaysurani18/" target="_blank">
     <img align="center"
          alt="Jay Surani | Instagram"
          width="32px"
          src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/jaysurani18" target="_blank">
     <img align="center"
          alt="Jay Surani | GitHub"
          width="32px"
          src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
   </a>
-</p>
+  &nbsp;&nbsp;&nbsp;
 
-
----
-
-<p align="center">
-  <i>"Consistency beats motivation."</i>
+  <a href="mailto:jaysurani008@gmail.com">
+    <img align="center"
+         alt="Jay Surani | Email"
+         width="32px"
+         src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
 </p>
 
 ---
